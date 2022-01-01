@@ -1,0 +1,8 @@
+C:\Users\v-splanck\source\repos\dataxlc\DataXLC\SQlServerExample\bin\Debug\SQlServerExample.exe.config
+C:\Users\v-splanck\source\repos\dataxlc\DataXLC\SQlServerExample\bin\Debug\SQlServerExample.exe
+C:\Users\v-splanck\source\repos\dataxlc\DataXLC\SQlServerExample\bin\Debug\SQlServerExample.pdb
+C:\Users\v-splanck\source\repos\dataxlc\DataXLC\SQlServerExample\obj\Debug\SQlServerExample.csproj.AssemblyReference.cache
+C:\Users\v-splanck\source\repos\dataxlc\DataXLC\SQlServerExample\obj\Debug\SQlServerExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\v-splanck\source\repos\dataxlc\DataXLC\SQlServerExample\obj\Debug\SQlServerExample.csproj.CoreCompileInputs.cache
+C:\Users\v-splanck\source\repos\dataxlc\DataXLC\SQlServerExample\obj\Debug\SQlServerExample.exe
+C:\Users\v-splanck\source\repos\dataxlc\DataXLC\SQlServerExample\obj\Debug\SQlServerExample.pdb
